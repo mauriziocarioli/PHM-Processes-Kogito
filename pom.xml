@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.health-insurance</groupId>
   <artifactId>PHM-Processes-Kogito</artifactId>
-  <version>4.0.0.redhat-SNAPSHOT</version>
+  <version>4.0.0-SNAPSHOT</version>
   <name>PHM-Processes-Kogito</name>
   <description>Population Health Management</description>
   <url>https://developers.redhat.com/blog/2020/02/19/designing-an-event-driven-business-process-at-scale-a-health-management-example-part-1/</url>
