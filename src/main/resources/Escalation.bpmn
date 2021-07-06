@@ -13,7 +13,7 @@
   <bpmn2:itemDefinition id="__62D26C36-816A-4305-B0FC-9CE37259EB4E_NotCompletedReassignInputXItem" structureRef="Object"/>
   <bpmn2:itemDefinition id="__62D26C36-816A-4305-B0FC-9CE37259EB4E_NotStartedNotifyInputXItem" structureRef="Object"/>
   <bpmn2:itemDefinition id="__62D26C36-816A-4305-B0FC-9CE37259EB4E_NotCompletedNotifyInputXItem" structureRef="Object"/>
-  <bpmn2:process id="PHM-Processes.Escalation" drools:packageName="com.health_insurance.phm_processes" drools:version="1.0" drools:adHoc="false" name="Escalation" isExecutable="true" processType="Public">
+  <bpmn2:process id="PHM-Processes.Escalation" drools:packageName="com.health_insurance.phm_processes" drools:version="4.0" drools:adHoc="false" name="Escalation" isExecutable="true" processType="Public">
     <bpmn2:property id="action" itemSubjectRef="_actionItem" name="action"/>
     <bpmn2:sequenceFlow id="_F7E262DA-F35F-4240-A4C6-9A14C28E1E9B" sourceRef="_62D26C36-816A-4305-B0FC-9CE37259EB4E" targetRef="_100A08BE-4E0B-481A-B138-9AD5F1060565">
       <bpmn2:extensionElements>

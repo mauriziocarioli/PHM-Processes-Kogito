@@ -15,7 +15,7 @@
   <bpmn2:itemDefinition id="__84BD755C-D95E-4028-97A5-8DEEF773EA27_DebugInputXItem" structureRef="String"/>
   <bpmn2:itemDefinition id="__84BD755C-D95E-4028-97A5-8DEEF773EA27_Reply-ToInputXItem" structureRef="String"/>
   <bpmn2:itemDefinition id="__84BD755C-D95E-4028-97A5-8DEEF773EA27_TemplateInputXItem" structureRef="String"/>
-  <bpmn2:process id="PHM-Processes.Reminder" drools:packageName="com.health_insurance.phm_processes" drools:version="1.0" drools:adHoc="false" name="Reminder" isExecutable="true" processType="Public">
+  <bpmn2:process id="PHM-Processes.Reminder" drools:packageName="com.health_insurance.phm_processes" drools:version="4.0" drools:adHoc="false" name="Reminder" isExecutable="true" processType="Public">
     <bpmn2:documentation id="_4INhsQD7EeucF85wiOHcEA"><![CDATA[Send a reminder to the task actor by email. In the future we should implement the options to use other mechanisms such as phone or SMS. The actor may have a preferred channel for notification.]]></bpmn2:documentation>
     <bpmn2:extensionElements>
       <drools:metaData name="customDescription">
